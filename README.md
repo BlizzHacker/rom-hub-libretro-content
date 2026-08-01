@@ -136,3 +136,15 @@ core each rather than systems, and the fantasy consoles RomM does not carry
   no rows. That is the `nointro-archive` lesson: Myrient answered HTTP 200 with
   a shutdown notice for every path, and a parser that cannot tell "empty" from
   "not a listing" cannot tell a dead source from a quiet one.
+
+---
+
+## Seen working
+
+Games this plugin imported are in the library below, filed in a collection named after it. Nothing in that picture was hand-placed.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install libretro-content`.
